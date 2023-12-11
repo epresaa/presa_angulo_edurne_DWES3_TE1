@@ -9,7 +9,6 @@ require "../app/model/Furgoneta.php";
 require "../core/Codes.php";
 require "../core/Router.php";
 require "../app/controllers/Concesionario.php";
-require "../core/HTTPNotFoundException.php";
 
 
 // ------------------------------ VARIABLES GLOBALES ------------------------------
@@ -149,11 +148,11 @@ try {
     // Cuando la URL no existe
     } else {
         // Lanza la excepción
-        throw new HTTPNotFoundException();
+        throw new Exception();
     }
 
-} catch(HTTPNotFoundException $e) {
-    // Maneja la excepción
-    echo "Error 404: " . $e->getMessage();
+} catch(Exception $e) {
+    // Muestra mensaje de error usando la clase Codes
+    Codes::generarCodigo(404);
 }
 ?>
