@@ -1,0 +1,128 @@
+{
+    "vehiculos": [
+        {
+            "matricula": "1223BBC",
+            "tipo": "coche",
+            "marca": "Toyota",
+            "modelo": "Camry",
+            "anio": 2019,
+            "color": "Plateado",
+            "km": 30000,
+            "precio": 25000,
+            "combustible": "Gasolina",
+            "categoria": "sedan"
+        },
+        {
+            "matricula": "4256DDF",
+            "tipo": "coche",
+            "marca": "Honda",
+            "modelo": "CR-V",
+            "anio": 2018,
+            "color": "Azul",
+            "km": 40000,
+            "precio": 28000,
+            "combustible": "Diesel",
+            "categoria": "suv"
+        },
+        {
+            "matricula": "7894GHF",
+            "tipo": "coche",
+            "marca": "Ford",
+            "modelo": "Focus",
+            "anio": 2017,
+            "color": "Rojo",
+            "km": 35000,
+            "precio": 22000,
+            "combustible": "Gasolina",
+            "categoria": "compacto"
+        },
+        {
+            "matricula": "1021JKL",
+            "tipo": "furgoneta",
+            "marca": "Chevrolet",
+            "modelo": "Express",
+            "anio": 2019,
+            "color": "Blanco",
+            "km": 25000,
+            "precio": 30000,
+            "combustible": "Gasolina",
+            "tamanio": "corta",
+            "volumenCarga_m3": 3
+        },
+        {
+            "matricula": "2042MNR",
+            "tipo": "furgoneta",
+            "marca": "Nissan",
+            "modelo": "NV200",
+            "anio": 2016,
+            "color": "Gris",
+            "km": 60000,
+            "precio": 18000,
+            "combustible": "Diesel",
+            "tamanio": "mediana",
+            "volumenCarga_m3": 6
+        },
+        {
+            "matricula": "3013PQR",
+            "tipo": "coche",
+            "marca": "Volkswagen",
+            "modelo": "Passat",
+            "anio": 2018,
+            "color": "Negro",
+            "km": 32000,
+            "precio": 26000,
+            "combustible": "Gasolina",
+            "categoria": "sedan"
+        },
+        {
+            "matricula": "4034STF",
+            "tipo": "furgoneta",
+            "marca": "BMW",
+            "modelo": "X3",
+            "anio": 2017,
+            "color": "Verde",
+            "km": 45000,
+            "precio": 32000,
+            "combustible": "Diesel",
+            "tamanio": "larga",
+            "volumenCarga_m3": 12
+        },
+        {
+            "matricula": "5035VWX",
+            "tipo": "coche",
+            "marca": "Mercedes-Benz",
+            "modelo": "GLE",
+            "anio": 2016,
+            "color": "Plata",
+            "km": 50000,
+            "precio": 35000,
+            "combustible": "Gasolina",
+            "categoria": "suv"
+        },
+        {
+            "matricula": "62036YZG",
+            "tipo": "coche",
+            "marca": "Audi",
+            "modelo": "A3",
+            "anio": 2019,
+            "color": "Amarillo",
+            "km": 28000,
+            "precio": 28000,
+            "combustible": "Diesel",
+            "categoria": "compacto"
+        },
+        {
+            "matricula": "7077BCD",
+            "tipo": "furgoneta",
+            "marca": "Hyundai",
+            "modelo": "H1",
+            "anio": 2018,
+            "color": "Morado",
+            "km": 38000,
+            "precio": 30000,
+            "combustible": "Gasolina",
+            "tamanio": "corta",
+            "volumenCarga_m3": 3
+        }
+    ]
+}
