@@ -125,54 +125,54 @@
             "volumenCarga_m3": 3
         },
         {
-          "matricula": "JKL456",
-          "tipo": "coche",
-          "marca": "Honda",
-          "modelo": "Civic",
-          "anio": 2021,
-          "color": "azul",
-          "km": 8000,
-          "precio": 18000,
-          "combustible": "Diesel",
-          "categoria": "Compacto"
+            "matricula": "JKL456",
+            "tipo": "coche",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "anio": 2021,
+            "color": "azul",
+            "km": 8000,
+            "precio": 18000,
+            "combustible": "Diesel",
+            "categoria": "compacto"
         },
         {
-          "matricula": "MND012",
-          "tipo": "furgoneta",
-          "marca": "Mercedes",
-          "modelo": "Sprinter",
-          "anio": 2019,
-          "color": "blanco",
-          "km": 15000,
-          "precio": 35000,
-          "combustible": "Electrico",
-          "tamanio": "Corta",
-          "volumenCarga_m3": 3.5
+            "matricula": "MND012",
+            "tipo": "furgoneta",
+            "marca": "Mercedes",
+            "modelo": "Sprinter",
+            "anio": 2019,
+            "color": "blanco",
+            "km": 15000,
+            "precio": 35000,
+            "combustible": "Electrico",
+            "tamanio": "corta",
+            "volumenCarga_m3": 3.5
         },
         {
-          "matricula": "PQR345",
-          "tipo": "coche",
-          "marca": "Volkswagen",
-          "modelo": "Golf",
-          "anio": 2020,
-          "color": "gris",
-          "km": 10000,
-          "precio": 22000,
-          "combustible": "Gasolina",
-          "categoria": "Sedan"
+            "matricula": "PQR345",
+            "tipo": "coche",
+            "marca": "Volkswagen",
+            "modelo": "Golf",
+            "anio": 2020,
+            "color": "gris",
+            "km": 10000,
+            "precio": 22000,
+            "combustible": "Gasolina",
+            "categoria": "sedan"
         },
         {
-          "matricula": "STS678",
-          "tipo": "furgoneta",
-          "marca": "Peugeot",
-          "modelo": "Boxer",
-          "anio": 2022,
-          "color": "negro",
-          "km": 18000,
-          "precio": 30000,
-          "combustible": "Diesel",
-          "tamanio": "Mediana",
-          "volumenCarga_m3": 7.5
+            "matricula": "STS678",
+            "tipo": "furgoneta",
+            "marca": "Peugeot",
+            "modelo": "Boxer",
+            "anio": 2022,
+            "color": "negro",
+            "km": 18000,
+            "precio": 30000,
+            "combustible": "Diesel",
+            "tamanio": "mediana",
+            "volumenCarga_m3": 7.5
         },
         {
             "matricula": "62036YZG",
@@ -185,8 +185,8 @@
             "precio": 28000,
             "combustible": "Diesel",
             "categoria": "compacto"
-          },
-          {
+        },
+        {
             "matricula": "7077BCD",
             "tipo": "furgoneta",
             "marca": "Hyundai",
@@ -198,8 +198,8 @@
             "combustible": "Gasolina",
             "tamanio": "corta",
             "volumenCarga_m3": 3
-          },
-          {
+        },
+        {
             "matricula": "8108FGH",
             "tipo": "coche",
             "marca": "Kia",
@@ -210,8 +210,8 @@
             "precio": 30000,
             "combustible": "Electrico",
             "categoria": "suv"
-          },
-          {
+        },
+        {
             "matricula": "9109JKM",
             "tipo": "coche",
             "marca": "Mazda",
@@ -222,8 +222,8 @@
             "precio": 27000,
             "combustible": "Gasolina",
             "categoria": "compacto"
-          },
-          {
+        },
+        {
             "matricula": "1011NPR",
             "tipo": "furgoneta",
             "marca": "Toyota",
@@ -235,6 +235,6 @@
             "combustible": "Diesel",
             "tamanio": "mediana",
             "volumenCarga_m3": 8
-          }
+        }
     ]
 }
